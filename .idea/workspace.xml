@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4567a910-c315-4b02-8186-0d828b4f66a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists as Stacks and Queues/01-Lists-as-Stacks-and-Queues-Exercise.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists as Stacks and Queues/01-Lists-as-Stacks-and-Queues-Lab.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/Python Advanced Retake Exam - 14 April 2021.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/01. Problem_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/02. Problem_Условие.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/03. Problem_Условие.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +33,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.05.softuni_party">
-    <configuration name="01.count_same_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07.battle_of_names">
+    <configuration name="03.periodic_tables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -52,11 +42,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/01.count_same_values.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/exercise/03.periodic_tables.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -65,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.average_student_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.count_symbols" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/02.average_student_grades.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/exercise/04.count_symbols.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +76,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05.phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/04.parking_lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/exercise/05.phonebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05.softuni_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06.longest_intersection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/05.softuni_party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/exercise/06.longest_intersection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="record_unique_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07.battle_of_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/record_unique_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/exercise/07.battle_of_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05.softuni_party" />
-        <item itemvalue="Python.04.parking_lot" />
-        <item itemvalue="Python.record_unique_names" />
-        <item itemvalue="Python.02.average_student_grades" />
-        <item itemvalue="Python.01.count_same_values" />
+        <item itemvalue="Python.07.battle_of_names" />
+        <item itemvalue="Python.06.longest_intersection" />
+        <item itemvalue="Python.05.phonebook" />
+        <item itemvalue="Python.04.count_symbols" />
+        <item itemvalue="Python.03.periodic_tables" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +167,11 @@
           <url>file://$PROJECT_DIR$/Tuples and Sets/lab/05.softuni_party.py</url>
           <line>3</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tuples and Sets/exercise/04.count_symbols.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
