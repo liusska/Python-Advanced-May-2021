@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4567a910-c315-4b02-8186-0d828b4f66a3" name="Default Changelist" comment="" />
+    <list default="true" id="4567a910-c315-4b02-8186-0d828b4f66a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists as Stacks and Queues/01-Lists-as-Stacks-and-Queues-Exercise.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists as Stacks and Queues/01-Lists-as-Stacks-and-Queues-Lab.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/Python Advanced Retake Exam - 14 April 2021.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/01. Problem_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/02. Problem_Условие.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exams/Python Advanced Retake Exam - 14 April 2021/03. Problem_Условие.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,11 +40,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exams/Python Advanced Retake Exam - 14 April 2021" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.06.balanced_parentheses">
-    <configuration name="02.maximum_and_minimum_element" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05.softuni_party">
+    <configuration name="01.count_same_values" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -40,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise/02.maximum_and_minimum_element.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/01.count_same_values.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -53,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.fast_food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.average_student_grades" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise/03.fast_food.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/02.average_student_grades.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.fashion_boutique" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise/04.fashion_boutique.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/04.parking_lot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05.truck_tour" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05.softuni_party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise/05.truck_tour.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/05.softuni_party.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06.balanced_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="record_unique_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-advanced-May-2021" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tuples and Sets/lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists as Stacks and Queues/excercise/06.balanced_parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tuples and Sets/lab/record_unique_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06.balanced_parentheses" />
-        <item itemvalue="Python.05.truck_tour" />
-        <item itemvalue="Python.04.fashion_boutique" />
-        <item itemvalue="Python.03.fast_food" />
-        <item itemvalue="Python.02.maximum_and_minimum_element" />
+        <item itemvalue="Python.05.softuni_party" />
+        <item itemvalue="Python.04.parking_lot" />
+        <item itemvalue="Python.record_unique_names" />
+        <item itemvalue="Python.02.average_student_grades" />
+        <item itemvalue="Python.01.count_same_values" />
       </list>
     </recent_temporary>
   </component>
@@ -157,5 +169,16 @@
       <updated>1621512535739</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tuples and Sets/lab/05.softuni_party.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
