@@ -1,19 +1,19 @@
-def flights(*args):
-    a = 1
-    dict_flights = {}
-    for i in range(0, len(args), 2):
-        current = args[i]
-        if current == "Finish":
-            return dict_flights
-        if i % 2 == 0:
-            if current not in dict_flights:
-                dict_flights[current] = 0
-            dict_flights[current] += int(args[i + 1])
-    return dict_flights
-
-
-
-
-
-
-print(flights('Finish', 'New York', 90, 'Aberdeen', 300, 'Sydney', 0))
+def stock_availability(*args):
+    stock = [item for item in args[0]]
+    if args[1] == 'delivery':
+        items_to_add = args[2:]
+        for item in items_to_add:
+            stock.append(item)
+    elif args[1] == 'sell':
+        if len(args) > 2:
+            if type(args[2]) == int:
+                stock = stock[args[2]:]
+            elif len(args) > 2:
+                items_for_sell = args[2:]
+                for item in items_for_sell:
+                    if item in stock:
+                        while item in stock:
+                            stock.remove(item)
+        else:
+            stock = stock[1:]
+    return stock
