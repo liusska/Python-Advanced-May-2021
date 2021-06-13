@@ -1,0 +1,8 @@
+.py
+- - - 01.Even_lines
+- - - 02.Line_numbers
+- - - 03.File_manipulator
+- - - 04.Directory_traversal
+.txt
+- - - text_1
+- - - text_2
