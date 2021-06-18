@@ -15,9 +15,9 @@ def create_empty_board():
 def setup():
     player_1 = input("Player 1 name: ")
     player_2 = input("Player 2 name: ")
-    player_1_sign = input(f"{player_1}, choose your sign (X or Y): ").upper()
+    player_1_sign = input(f"{player_1}, choose your sign (X or O): ").upper()
     while not player_1_sign in ["X", "O"]:
-        player_1_sign = input(f"{player_1}, choose your sign (X or Y): ").upper()
+        player_1_sign = input(f"{player_1}, choose your sign (X or O): ").upper()
     player_2_sign = "O" if player_1_sign == "X" else "X"
     print(f"{player_1} starts first!")
     print_initial_board_positions()
