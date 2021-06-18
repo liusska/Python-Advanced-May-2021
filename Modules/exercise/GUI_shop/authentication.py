@@ -1,8 +1,9 @@
 import json
 
 from tkinter import Button, Entry, Label
-from GUI_shop.helpers import clean_screen
 from GUI_shop.canvas import tk
+from GUI_shop.helpers import clean_screen
+from GUI_shop.products import render_products
 
 
 def login(username, password):
@@ -11,7 +12,9 @@ def login(username, password):
         for line in lines:
             uname, psword = line[:-1].split(" - ")
             if uname == username and psword == password:
-                print("Logged in successfully!")
+                with open("db/current_user.txt", "w") as current_user_file:
+                    current_user_file.write(username)
+                render_products()
                 return
 
         render_login(errors=True)
@@ -19,6 +22,8 @@ def login(username, password):
 
 def register(**user):
     user.update({"products": []})
+    # user.update({"is_admin": False})
+
     with open("db/users.txt", "a") as file:
         file.write(json.dumps(user))
         file.write("\n")

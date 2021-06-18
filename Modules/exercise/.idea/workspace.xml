@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81f1d732-f137-4111-b6fc-cf2796b21b70" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../WORKSHOP_Console_tic_tac_toe/tic_tac_toe/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../WORKSHOP_Console_tic_tac_toe/tic_tac_toe/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_shop/authentication.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_shop/authentication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI_shop/db/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_shop/db/users.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,4 +1,4 @@
 {"username": "test", "password": "123", "first_name": "Test", "last_name": "Testov", "products": []}
-{"username": "liuss", "password": "123", "first_name": "Liusska", "last_name": "Sokolova", "products": []}
+{"username": "liuss", "password": "123", "first_name": "Liusska", "last_name": "Sokolova", "products": [3, 2, 2, 1, 3]}
 {"username": "test2", "password": "123", "first_name": "Test2", "last_name": "Testov2", "products": []}
 {"username": "test3", "password": "123", "first_name": "Test3", "last_name": "Testov3", "products": []}
